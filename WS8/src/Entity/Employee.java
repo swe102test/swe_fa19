@@ -10,7 +10,7 @@ package Entity;
  * @author Mitu
  */
 public class Employee {
-    String code, name, abncd;
+    String code, name;
     int salary;
     double bonus;
 
